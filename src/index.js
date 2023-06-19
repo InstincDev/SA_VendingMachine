@@ -2,7 +2,7 @@
 console.log(sayHello('world'));
 
 function sayHello(name) {
-    return `Hi ${name}!`
+    return `hello ${name}`
 }
 
 module.exports = {
